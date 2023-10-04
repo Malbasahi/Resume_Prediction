@@ -1,0 +1,25 @@
+[Job Title]
+Formal position title. 
+Reports To
+The [job title] will report to [position title or titles this position reports to].
+Job Overview
+Provide a brief, four-sentence description of the role, what success in the position looks like, and how it fits into the company or organization overall.
+Responsibilities and Duties
+Provide a bullet point list of the responsibilities and duties of this job.
+●	List the essential duties required to carry out this job.
+●	List them in order of importance.
+●	Use complete sentences.
+●	Start sentences with verbs.
+●	Use the present tense.
+●	Use gender neutral language.
+Qualifications
+Provide a bullet point list of the qualifications that are necessary for someone to fill this position.
+Bullet points you may want to include are:
+●	Education level.
+●	Experience.
+●	Specific skills.
+●	Personal characteristics.
+●	Certifications.
+●	Licenses.
+●	Physical abilities.
+
